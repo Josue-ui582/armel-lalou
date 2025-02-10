@@ -68,7 +68,7 @@ export default function Home() {
               whileTap={{ scale: 0.95 }}
               transition={{ type: "spring", stiffness: 400, damping: 17 }}
             >
-              <Link href="/contact" className="z-50">
+              <Link href="/contact" className="z-40">
                 <Button size="sm">
                   Contactez-moi <ArrowRight className="ml-2 h-4 w-4 animate-slide" />
                 </Button>
@@ -79,7 +79,7 @@ export default function Home() {
               whileTap={{ scale: 0.95 }}
               transition={{ type: "spring", stiffness: 400, damping: 17 }}
             >
-              <Link href="/competences" className="z-50">
+              <Link href="/competences" className="z-40">
                 <Button variant="outline" size="sm">
                   Mes Compétences
                 </Button>

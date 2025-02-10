@@ -23,13 +23,13 @@ export const MenuToggle = () => {
     <div className="flex items-center gap-6">
       {/* Menu mobile */}
       <div
-        className={`fixed inset-0 bg-black text-white gap-5 flex flex-col items-center justify-center transition-transform duration-300 ease-in-out ${
+        className={`fixed inset-0 bg-black text-white gap-5 z-50 flex flex-col items-center justify-center transition-transform duration-300 ease-in-out ${
           menuOpen ? 'block' : 'hidden'
         }`}
       >
         <button
           onClick={() => setMenuOpen(false)}
-          className="absolute top-4 right-4 text-white text-3xl"
+          className="absolute top-5 right-4 text-white text-3xl"
         >
           <X className="h-6 w-6" />
         </button>
