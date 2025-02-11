@@ -50,7 +50,7 @@ export default function About() {
                 className="bg-card p-6 rounded-lg hover:shadow-lg transition-shadow"
               >
                 <h3 className="font-semibold">Responsable Transit et Douane</h3>
-                <p className="text-muted-foreground">PORTEO BENIN | Février 2024 - Présent</p>
+                <p className="text-muted-foreground">PORTEO BENIN | Février 2022 - Présent</p>
                 <p className="mt-2">
                   Chargé du suivi des opérations de Transit et de Douane du groupe.
                 </p>
@@ -76,7 +76,7 @@ export default function About() {
                 <h3 className="font-semibold">Stagiaire Assistant</h3>
                 <p className="text-muted-foreground">ATRAL BENIN</p>
                 <p className="mt-2">
-                  Service de régularisation Transit.
+                  Assistant du Chargé de régularisation Transit.
                 </p>
               </motion.div>
             </div>

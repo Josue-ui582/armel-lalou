@@ -55,7 +55,7 @@ export default function Home() {
             transition={{ delay: 0.4 }}
             className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto"
           >
-            Expert en transit international et accompagnement psychologique professionnel
+            Expert en transit national, international et accompagnement psychologique professionnel
           </motion.p>
           <motion.div
             initial={{ opacity: 0, y: 20 }}

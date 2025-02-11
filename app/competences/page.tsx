@@ -23,7 +23,7 @@ export default function Competences() {
   const competences = {
     transit: [
       "Déclaration en douane",
-      "Gestion des véhicules neufs et d'occasion",
+      "Dédouanement des véhicules neufs et d'occasion",
       "Export et réexportation de marchandises",
       "Suivi complet des opérations douanières",
       "Coordination d'activités de transit",
