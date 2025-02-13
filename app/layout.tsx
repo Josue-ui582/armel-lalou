@@ -31,7 +31,7 @@ export default function RootLayout({
         >
           <header className="border-b">
             <nav className="container mx-auto px-4 py-4">
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between top-0 items-center">
                 <Link href="/" className="text-xl font-bold">
                   Armel KOSSI LALOU
                 </Link>

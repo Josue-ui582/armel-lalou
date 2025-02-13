@@ -37,17 +37,17 @@ export function Footer() {
                 className="flex items-center gap-2"
               >
                 <Mail className="h-4 w-4 text-primary" />
-                <span>email@example.com</span>
+                <a href="mailto:email@example.com" className="hover:underline">golffodogg@yahoo.fr</a>
               </motion.div>
               <motion.div 
                 whileHover={{ x: 5 }}
                 className="flex items-center gap-2"
               >
                 <Phone className="h-4 w-4 text-primary" />
-                <span>+229 01 96 14 32 89</span>
+                <a href="tel:+2290196143289" className="hover:underline">002290196143289</a>
               </motion.div>
               <motion.div 
-                whileHover={{ x: 5 }}
+                whileHover={{ x: 1 }}
                 className="flex items-center gap-2"
               >
                 <MapPin className="h-4 w-4 text-primary" />

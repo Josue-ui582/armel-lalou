@@ -4,7 +4,7 @@ import { ArrowRight, Truck, Users, Brain, Mail } from "lucide-react";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
-import lalou from '../images/lalou.jpg'
+import lalou from '../images/lalo.png'
 import Image from 'next/image';
 
 export default function Home() {
