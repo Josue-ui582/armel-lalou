@@ -34,16 +34,16 @@ export const MenuToggle = () => {
           <X className="h-6 w-6" />
         </button>
 
-        <Link href="/" className="block text-2xl hover:text-primary transition-colors">
+        <Link href="/" onClick={() => setMenuOpen(false)} className="block text-2xl hover:text-primary transition-colors">
           Accueil
         </Link>
-        <Link href="/competences" className="block text-2xl hover:text-primary transition-colors">
+        <Link href="/competences" onClick={() => setMenuOpen(false)} className="block text-2xl hover:text-primary transition-colors">
           Compétences
         </Link>
-        <Link href="/a-propos" className="block text-2xl hover:text-primary transition-colors">
+        <Link href="/a-propos" onClick={() => setMenuOpen(false)} className="block text-2xl hover:text-primary transition-colors">
           À Propos
         </Link>
-        <Link href="/contact" className="block text-2xl hover:text-primary transition-colors">
+        <Link href="/contact" onClick={() => setMenuOpen(false)} className="block text-2xl hover:text-primary transition-colors">
           Contact
         </Link>
       </div>
