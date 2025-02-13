@@ -77,7 +77,7 @@ export default function Contact() {
                 className="flex items-center gap-3"
               >
                 <Mail className="h-5 w-5 text-primary" />
-                <span>email@example.com</span>
+                <a href="mailto:golffodogg@yahoo.fr" className="hover:underline">golffodogg@yahoo.fr</a>
               </motion.div>
               <motion.div
                 variants={item}
@@ -86,7 +86,7 @@ export default function Contact() {
                 className="flex items-center gap-3"
               >
                 <Phone className="h-5 w-5 text-primary" />
-                <span>+229 XX XX XX XX</span>
+                <a href="tel:+2290196143289" className="hover:underline">002290196143289</a>
               </motion.div>
               <motion.div
                 variants={item}

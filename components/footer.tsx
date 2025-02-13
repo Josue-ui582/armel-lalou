@@ -37,7 +37,7 @@ export function Footer() {
                 className="flex items-center gap-2"
               >
                 <Mail className="h-4 w-4 text-primary" />
-                <a href="mailto:email@example.com" className="hover:underline">golffodogg@yahoo.fr</a>
+                <a href="mailto:golffodogg@yahoo.fr" className="hover:underline">golffodogg@yahoo.fr</a>
               </motion.div>
               <motion.div 
                 whileHover={{ x: 5 }}
