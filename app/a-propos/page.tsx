@@ -104,8 +104,7 @@ export default function About() {
             >
               Mon objectif est d'apporter une valeur ajoutée significative aux entreprises
               en combinant expertise technique en transit et approche humaine. Je m'engage
-              à faciliter les opérations internationales tout en veillant au bien-être
-              et au développement professionnel des équipes.
+              à faciliter les opérations internationales de transit tout en veillant au bien-être et au développement professionnel des équipes.
             </motion.p>
           </motion.section>
         </motion.div>

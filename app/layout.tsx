@@ -33,7 +33,7 @@ export default function RootLayout({
             <nav className="container mx-auto px-4 py-4">
               <div className="flex justify-between top-0 items-center">
                 <Link href="/" className="text-xl font-bold">
-                  Armel KOSSI LALOU
+                  Armel COSSI LALOU
                 </Link>
                 <ThemeToggle />
                 <MenuToggle />

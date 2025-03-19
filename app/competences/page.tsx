@@ -31,9 +31,9 @@ export default function Competences() {
     ],
     psychologie: [
       "Accompagnement psychologique",
-      "Soutien et écoute active",
+      "Soutien et écoute psychologiques",
       "Gestion des conflits",
-      "Orientation professionnelle",
+      "Orientation scolaire et professionnelle",
       "Médiation en entreprise",
       "Développement personnel",
     ],
